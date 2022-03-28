@@ -97,7 +97,11 @@ binding.recyclerView.adapter = adapter
 
 ## Çıktı
 
-DataBinding kullanarak oluşturduğumuz local verileri RecyclerViewda görüntüleyebileceğimiz bir uygulama.Aşağıdaki gibi çıktı verecektir.
+DataBinding kullanarak oluşturduğumuz local verileri RecyclerViewda görüntüleyebileceğimiz bir uygulama.Aşağıdaki gibi çıktı verecektir. Ben GridLayoutManager sınıfını kullanarak klavuz görünümü oluşturdum.
+
+![cikti](https://github.com/isilay-subasi/DataBindingSample/blob/main/images/cikti.PNG)
+
+
 
 
 
